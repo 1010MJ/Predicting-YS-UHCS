@@ -1,4 +1,4 @@
-# 🔩 IIT Yield Strength Prediction
+# 🔩 Steel Yield Strength Prediction
 
 A machine learning project focused on predicting the **Yield Strength (YS)** of Ultra-High Carbon Steels (UHCS) using their compositional and thermal processing parameters.
 This can support materials scientists in designing alloys with tailored mechanical properties.
