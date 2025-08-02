@@ -12,6 +12,20 @@ This project leverages machine learning to create a predictive model for YS, usi
 The goal is to assist materials development with fast, accurate computational predictions.
 
 ---
+## 🧩 Problem Addressed
+
+The project aims to predict the **Yield Strength (YS)** of Ultra-High Carbon Steels using machine learning, based on their chemical composition and heat treatment parameters. In materials science, traditional testing is time-consuming and expensive. This model provides a fast, data-driven alternative by learning patterns from existing experimental data.
+
+## ✅ Solution Approach
+
+A complete machine learning pipeline was developed to address these challenges:
+
+- Performed data cleaning, transformation, and feature selection.
+- Applied regression models including Linear Regression, Random Forest, and XGBoost.
+- Evaluated models using metrics like RMSE and R².
+- Interpreted feature importance to understand drivers of yield strength.
+
+This solution enables faster, cost-efficient yield strength estimation and supports materials design
 
 ## ❗ Challenges Addressed
 
